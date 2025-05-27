@@ -1,0 +1,4 @@
+property_id,address,zip_code,owner_name,last_sale_price,sale_date
+1,123 Main St,94110,XYZ Capital,850000,2020-06-01
+2,456 Elm St,90210,Jane Doe,600000,2021-01-15
+3,789 Pine St,60601,ACME LLC,450000,2019-11-20
