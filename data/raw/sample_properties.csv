@@ -1,4 +1,7 @@
 property_id,address,zip_code,owner_name,last_sale_price,sale_date
-1,123 Main St,94110,XYZ Capital,850000,2020-06-01
-2,456 Elm St,90210,Jane Doe,600000,2021-01-15
-3,789 Pine St,60601,ACME LLC,450000,2019-11-20
+1,1600 Amphitheatre Parkway,94043,ABC Capital,980000,2020-06-01
+2,1 Apple Park Way,95014,Sunrise LLC,870000,2021-01-15
+3,350 5th Ave,10118,UrbanTrust Inc,1200000,2019-11-20
+4,2211 N First St,95131,RentRaiser Trust,640000,2022-03-22
+5,405 Howard St,94105,People's Housing Co,550000,2023-01-11
+

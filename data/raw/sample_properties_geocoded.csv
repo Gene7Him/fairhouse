@@ -1,0 +1,6 @@
+property_id,address,zip_code,owner_name,last_sale_price,sale_date,latitude,longitude
+1,1600 Amphitheatre Parkway,94043,ABC Capital,980000,2020-06-01,37.4224857,-122.0855846
+2,1 Apple Park Way,95014,Sunrise LLC,870000,2021-01-15,37.3371185,-122.0108055
+3,350 5th Ave,10118,UrbanTrust Inc,1200000,2019-11-20,,
+4,2211 N First St,95131,RentRaiser Trust,640000,2022-03-22,37.3768714,-121.9228061
+5,405 Howard St,94105,People's Housing Co,550000,2023-01-11,,
