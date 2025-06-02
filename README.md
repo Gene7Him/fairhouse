@@ -31,7 +31,7 @@ I built FairHouse to expose the systemic abuse in housing and give power back to
 ## 🛠️ Getting Started
 
 ```bash
-git clone https://github.com/yourname/fairhouse.git
+git clone https://github.com/Gene7Him/fairhouse.git
 cd fairhouse
 python -m venv venv
 source venv/bin/activate
