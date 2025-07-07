@@ -77,7 +77,7 @@ if not filtered_df.empty:
     )
 
     st.pydeck_chart(pdk.Deck(
-        map_style="mapbox://styles/mapbox/light-v9",
+        map_style="None",
         initial_view_state=view_state,
         layers=[layer],
         tooltip={"text": "Owner: {owner_name}\\nScore: {accountability_score}"}
