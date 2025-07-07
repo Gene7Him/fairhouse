@@ -1,6 +1,4 @@
-import os
+import streamlit as st
 from sqlalchemy import create_engine
-from dotenv import load_dotenv
 
-load_dotenv()
-engine = create_engine(os.getenv("DATABASE_URL"))
+engine = create_engine(st.secrets["DATABASE_URL"])
