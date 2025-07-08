@@ -1,0 +1,6 @@
+timestamp,property_id,issue_type,description,reporter_name
+2025-07-01T12:30:00,1001,Rent Hike,Rent was increased by 20% without notice,Jane Doe
+2025-07-02T09:15:00,1002,Unsafe Conditions,Exposed wiring and broken smoke detectors,John Smith
+2025-07-03T18:45:00,1003,Eviction Threat,Received an eviction notice after complaining about plumbing,Maria Lopez
+2025-07-04T14:10:00,1004,Harassment,Landlord repeatedly enters unit without permission,Aaron Davis
+2025-07-05T16:00:00,1005,Other,The building has no wheelchair access,Samantha Lee

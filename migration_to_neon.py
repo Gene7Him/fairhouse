@@ -21,7 +21,7 @@ else:
     print("⚠️ sample_properties_geocoded.csv not found.")
 
 # Upload reports (optional)
-reports_path = "data/reports.csv"
+reports_path = "data/raw/reports.csv"
 if os.path.exists(reports_path):
     reports_df = pd.read_csv(reports_path)
     reports_df["timestamp"] = pd.to_datetime(reports_df["timestamp"])
