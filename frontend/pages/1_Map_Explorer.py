@@ -77,7 +77,7 @@ if not filtered_df.empty:
     )
 
     st.pydeck_chart(pdk.Deck(
-        map_style="None",
+        map_style="https://basemaps.cartocdn.com/gl/positron-gl-style/style.json",
         initial_view_state=view_state,
         layers=[layer],
         tooltip={"text": "Owner: {owner_name}\\nScore: {accountability_score}"}
